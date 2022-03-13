@@ -12,4 +12,4 @@ Then you can launch both of apps:
 ```sh
 cd rmq-spring
 make start
-```sh
+```
