@@ -1,0 +1,6 @@
+rootProject.name = 'rmq-spring'
+
+includeBuild 'consumer'
+includeBuild 'producer'
+
+

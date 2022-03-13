@@ -1,0 +1,11 @@
+server:
+  port: ${PORT:5005}
+
+logging:
+  level:
+    root: INFO
+
+spring:
+  rabbitmq:
+    port: 5600
+
