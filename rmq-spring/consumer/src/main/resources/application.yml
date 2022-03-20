@@ -8,4 +8,5 @@ logging:
 spring:
   rabbitmq:
     port: 5600
+    host: ${MQ_HOST:localhost}
 

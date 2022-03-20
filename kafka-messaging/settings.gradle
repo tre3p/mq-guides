@@ -1,0 +1,7 @@
+rootProject.name = 'kafka-messaging'
+
+rootProject.name = 'rmq-spring'
+
+includeBuild 'consumer'
+includeBuild 'producer'
+

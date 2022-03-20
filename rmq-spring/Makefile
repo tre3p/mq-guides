@@ -1,2 +1,2 @@
 start:
-	gradle start
+	./gradlew start

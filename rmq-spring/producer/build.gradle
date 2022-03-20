@@ -29,5 +29,4 @@ dependencies {
 	testImplementation 'com.github.database-rider:rider-junit5:1.32.0'
 	implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.0'
 	implementation 'com.fasterxml.jackson.core:jackson-core:2.13.0'
-	testImplementation 'org.apache.commons:commons-lang3:3.12.0'
 }
