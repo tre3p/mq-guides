@@ -9,8 +9,6 @@ RUN apt update \
 EXPOSE 5050
 EXPOSE 4040
 
-RUN apt-get -y install make
-
 COPY . /usr/src/app
 
 WORKDIR /usr/src/app
