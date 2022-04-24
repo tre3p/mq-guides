@@ -30,7 +30,7 @@ cd kafka-messaging
 make start
 ```
 
-Alternatively, you can use my docker-compose, which will launch all application needed.
+Alternatively, you can use my docker compose, which will launch all application needed.
 
 ```sh
 cd kafka-messaging
